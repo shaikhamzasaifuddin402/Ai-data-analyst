@@ -40,8 +40,8 @@ A comprehensive, modular AI-driven analytics platform that combines advanced mac
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd Code
+   git clone https://github.com/shaikhamzasaifuddin402/Ai-data-analyst.git
+   cd Ai-data-analyst
    ```
 
 2. **Install dependencies**
